@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85e3750c-0dac-4353-8265-89abb9ea9ce2" alt="Banner" width="100%" height="300">
+</p>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
