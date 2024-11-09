@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6036cec2-99bc-4cd5-9e19-da2b98a2cfad" alt="Banner" width="100%" height="350">
-</p>
-
 <h1 align="center">Hi 👋, I'm Fannuel Gulelat</h1>
 <h3 align="center">A passionate backend and android developer</h3>
 
@@ -80,6 +76,5 @@
 
 </p>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deadbeatnoble&theme=dark)](https://git.io/streak-stats)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deadbeatnoble&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deadbeatnoble&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
